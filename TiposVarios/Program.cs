@@ -6,13 +6,14 @@ namespace TiposVarios
     {
         static void Main(string[] args)
         {
-            int i variavelBruh = 10;
-            Uint x = 3;
-
+            int i = 10;
+            uint x = 3;
+            char lorem = 'S';
 
 
             Console.WriteLine(i);
             Console.WriteLine(x);
+            Console.WriteLine(lorem);
         }
     }
 }
